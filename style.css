@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Raleway&display=swap");
+
+body {
+  background-color: black;
+}
+.container {
+  top: 50%;
+  left: 80%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+  font-family: "Raleway";
+  display: flex;
+}
